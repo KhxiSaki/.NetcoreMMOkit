@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=LAPTOP-MGD888H3\\SQL2016;Database=MMO_v1;User Id= sa;Password=007;"
+  }
+}
